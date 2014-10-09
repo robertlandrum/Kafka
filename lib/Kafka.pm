@@ -21,7 +21,7 @@ use warnings;
 
 # ENVIRONMENT ------------------------------------------------------------------
 
-our $VERSION = '0.8008';
+our $VERSION = '0.8009';
 
 use Exporter qw(
     import
